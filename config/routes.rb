@@ -5,4 +5,5 @@ Rails.application.routes.draw do
   # root "articles#index"
   #git hub check
   # github check 2
+  # check 3
 end
